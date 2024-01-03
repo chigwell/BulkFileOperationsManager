@@ -5,7 +5,7 @@ with open('README.md', encoding='utf-8') as f:
 
 setup(
     name='BulkFileOperationsManager',
-    version='0.0.2',
+    version='0.0.4',
     description='Python package for managing bulk file CRUD operations.',
     long_description=long_description,
     long_description_content_type='text/markdown',
